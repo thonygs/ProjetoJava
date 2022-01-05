@@ -7,8 +7,8 @@ public class PrimeiroPrograma {
 
         Cachorro cachorro = new Cachorro();
         System.out.println(cachorro);
-//        int a = 8;
-//        int b = 10;
-//        System.out.println("Hello World! " + (a+b));
+        int a = 8;
+        int b = 10;
+        System.out.println("Hello World! " + (a+b));
     }
 }
